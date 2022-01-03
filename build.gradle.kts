@@ -32,6 +32,7 @@ dependencies {
     implementation("org.mapstruct:mapstruct-jdk8:1.4.2.Final")
     implementation("org.mapstruct:mapstruct:1.4.2.Final")
     implementation("org.liquibase:liquibase-core")
+    implementation("io.github.microutils:kotlin-logging:2.1.21")
 
     runtimeOnly("org.postgresql:postgresql")
 
